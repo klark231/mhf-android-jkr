@@ -1,0 +1,19 @@
+{
+  "Version": 2,
+  "SourceFile": "em001.pac",
+  "ExtractedFile": "em001.pac.decd.unpacked",
+  "Layers": [
+    {
+      "Kind": "Ecd",
+      "MetaFile": "em001.pac.meta",
+      "Header": "ZWNkGgQAcvZWfw4Ax2zjkw==",
+      "OriginalSize": 950118
+    },
+    {
+      "Kind": "Container",
+      "ContainerType": "SimpleArchive",
+      "Directory": "em001.pac.decd.unpacked",
+      "OriginalSize": 950102
+    }
+  ]
+}

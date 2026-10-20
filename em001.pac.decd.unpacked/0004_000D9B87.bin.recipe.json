@@ -1,0 +1,13 @@
+{
+  "Version": 2,
+  "SourceFile": "0004_000D9B87.bin",
+  "ExtractedFile": "0004_000D9B87.bin.unpacked",
+  "Layers": [
+    {
+      "Kind": "Container",
+      "ContainerType": "SimpleArchive",
+      "Directory": "0004_000D9B87.bin.unpacked",
+      "OriginalSize": 19414
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Version": 2,
+  "SourceFile": "0005_000DE75D.bin",
+  "ExtractedFile": "0005_000DE75D.bin.unpacked",
+  "Layers": [
+    {
+      "Kind": "Container",
+      "ContainerType": "SimpleArchive",
+      "Directory": "0005_000DE75D.bin.unpacked",
+      "OriginalSize": 36459
+    }
+  ]
+}
